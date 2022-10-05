@@ -2,7 +2,7 @@
 Projetos realizados pelo curso da udemy "Modern JavaScript From The Beggining" do professor Brad Traversy na seção 4: DOM Projects.
 
 # Task List
-Tem como intuito treinar manipulações do DOM e armazenamento no local storage para se criar uma lista de tarefas.
+Tem como intuito treinar manipulações do DOM e armazenamento no local storage para se criar uma lista de tarefas que acrescenta, filtra e exclui individualmente e limpa de forma geral os itens nela apresentados.
 
 # Loan Calculator
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
